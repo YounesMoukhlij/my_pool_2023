@@ -1,0 +1,24 @@
+exam 00 ;
+* only_a -----V------
+* ft_countdown  -----V------
+* print_numbers -----V------
+* maff_alpha -----V------
+* hello -----V------
+* ft_swap -----V------
+* ft_strcmp -----V------
+* ft_strrev -----V------
+* ft_atoi
+
+exam 01 ;
+
+* only_z ------V----
+* ft_strlen -----V-----
+* revprint  -----V----
+* ft_range argc argv -----V----
+* union -------V------
+
+exam 02 :
+first_word ---V
+ft_itoa ---V
+ft-range  ----V
+ft-split -----V
